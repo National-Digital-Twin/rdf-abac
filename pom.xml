@@ -86,7 +86,7 @@
     <plugin.enforcer>3.5.0</plugin.enforcer>
     <plugin.gpg>3.2.7</plugin.gpg>
     <plugin.install>3.1.4</plugin.install>
-    <plugin.jacoco>0.8.12</plugin.jacoco>
+    <plugin.jacoco>0.8.13</plugin.jacoco>
     <plugin.jar>3.4.2</plugin.jar>
     <plugin.javadoc>3.11.2</plugin.javadoc>
     <plugin.nexus>1.7.0</plugin.nexus>
@@ -94,16 +94,16 @@
     <plugin.shade>3.6.0</plugin.shade>
     <plugin.site>3.21.0</plugin.site>
     <plugin.source>3.3.1</plugin.source>
-    <plugin.surefire>3.5.2</plugin.surefire>
+    <plugin.surefire>3.5.3</plugin.surefire>
 
     <!-- Dependency Plugins -->
     <!-- Internal dependencies -->
-    <dependency.jena>5.2.0</dependency.jena>
+    <dependency.jena>5.3.0</dependency.jena>
     <dependency.rocksdb>9.10.0</dependency.rocksdb>
 
     <!-- External dependencies -->
     <dependency.assert>3.27.3</dependency.assert>
-    <dependency.guava>33.4.5-jre</dependency.guava>
+    <dependency.guava>33.4.6-jre</dependency.guava>
     <dependency.jmh>1.37</dependency.jmh>
     <dependency.junit5>5.12.1</dependency.junit5>
     <dependency.junit5-platform>1.12.1</dependency.junit5-platform>
