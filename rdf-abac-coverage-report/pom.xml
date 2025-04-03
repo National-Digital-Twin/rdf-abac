@@ -34,7 +34,7 @@
     <parent>
         <groupId>uk.gov.dbt.ndtp.jena</groupId>
         <artifactId>rdf-abac</artifactId>
-        <version>0.73.5</version>
+        <version>0.90.0</version>
     </parent>
 
     <dependencies>
