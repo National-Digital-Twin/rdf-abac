@@ -43,7 +43,7 @@
     <dependency>
       <groupId>uk.gov.dbt.ndtp.jena</groupId>
       <artifactId>rdf-abac-lib</artifactId>
-      <version>0.73.5</version>
+      <version>0.90.0</version>
     </dependency>
 
     <dependency>
@@ -60,19 +60,19 @@
     <dependency>
       <groupId>uk.gov.dbt.ndtp.jena</groupId>
       <artifactId>rdf-abac-lib</artifactId>
-      <version>0.73.5</version>
+      <version>0.90.0</version>
       <classifier>tests</classifier>
       <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>uk.gov.dbt.ndtp.jena</groupId>
       <artifactId>rdf-abac-fuseki</artifactId>
-      <version>0.73.5</version>
+      <version>0.90.0</version>
     </dependency>
     <dependency>
       <groupId>uk.gov.dbt.ndtp.jena</groupId>
       <artifactId>rdf-abac-fuseki</artifactId>
-      <version>0.73.5</version>
+      <version>0.90.0</version>
       <classifier>tests</classifier>
       <scope>test</scope>
     </dependency>
