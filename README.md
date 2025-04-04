@@ -60,14 +60,14 @@ See "[Configuring Fuseki](https://jena.apache.org/documentation/fuseki2/fuseki-c
 for authentication.
 
 ## Features
-- **Core Functionality**  
+- **Key Functionality**  
    - RDF ABAC consists of a ABAC security engine, an extension module for [Apache Jena Fuseki](https://jena.apache.org/documentation/fuseki2/),
 and a security evaluation service to provide security verification
 to non-JVM components of the system.
 - **Key Integrations**  
     - Enhances access control for the [secure-agent-graph](https://github.com/National-Digital-Twin/secure-agent-graph) project.  
 - **Scalability & Performance**  
-    - Optimised for high-throughput environments
+    - Optimised for high-throughput environments.
 - **Modularity**  
     - Designed as a modular component of NDTP’s Integration Architecture (IA).  
     - Includes the `rdf-abac-fmod` module for Fuseki.  
